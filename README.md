@@ -2,7 +2,7 @@
 
 <table>
   
-**In this project we'll be applying Transfer Learning to solve very famous Food Vision 101 challenge of Image Classification two different types of Transfer Learning. First One is Feature Extraction Model and other is Fine Tuned Model.** <br></br>
+**In this project we'll be applying Transfer Learning to solve very famous Food Vision 101 challenge of Image Classification two different types of Transfer Learning. First One is Feature Extraction Model and other is Fine Tuned Model. Here we have made 4 different variations of these taking different variations possible in quantity of data.** <br></br>
 
 **Let's looks into dataset:** <br></br>
 
