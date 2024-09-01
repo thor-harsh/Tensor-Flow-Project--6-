@@ -24,7 +24,6 @@ Transfer learning is a machine learning technique in which knowledge gained thro
 
 Classification is a supervised machine learning process of categorizing a given set of input data into classes based on one or more variables. <br></br>
 
-
 **What is a Feature Extractor Transfer Learning?** <br></br>
 It Uses the representations learned by a previous network to extract meaningful features from new samples.
 
@@ -32,7 +31,7 @@ It Uses the representations learned by a previous network to extract meaningful 
 Fine-tuning is a type of transfer learning. It involves taking a pre-trained model, which has been trained on a large dataset for a general task such as image recognition or natural language understanding and making minor adjustments to its internal parameters.
 
 
-**Important Note: Before Jumping to the code go through the Food Vision 101 dataset by clicking on this link (https://www.tensorflow.org/datasets/catalog/food101) to learn more. For two transfer learning models used here go to (https://www.tensorflow.org/api_docs/python/tf/keras/applications/ResNet50V2) for ResNet50V2 to learn more about that and go to (https://arxiv.org/abs/2104.00298) to know about EfficientNet-V2.**
+**Important Note: Before Jumping to the code go through the Food Vision 101 dataset by clicking on this link (https://www.tensorflow.org/datasets/catalog/food101) to learn more. To understand more about these transfer learning methods type please visit this link to know them in detail (https://medium.com/munchy-bytes/transfer-learning-and-fine-tuning-363b3f33655d#:~:text=Fine%2Dtuning%20is%20a%20type,adjustments%20to%20its%20internal%20parameters.)**
 
 </table>
 
